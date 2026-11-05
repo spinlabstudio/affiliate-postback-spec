@@ -1,0 +1,9 @@
+site_name: Casino affiliate postback spec
+site_description: An open, vendor-neutral reference for server-to-server affiliate postbacks in online gambling.
+repo_url: https://github.com/spinlabstudio/affiliate-postback-spec
+nav:
+  - Overview: index.md
+  - Events: events.md
+  - Delivery and security: delivery.md
+theme:
+  name: readthedocs
